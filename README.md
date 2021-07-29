@@ -36,8 +36,6 @@ const lemos = (knowledge) => {
 ```
 <hr>
 
-<br/><br/>
-
 <img align='right' src="https://media.giphy.com/media/17b875GGvV9m9sLmNc/giphy.gif" width="230">
 
 ![Lemos GitHub stats](https://github-readme-stats.vercel.app/api?username=oLemos&theme=tokyonight&show_icons=true)
