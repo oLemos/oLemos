@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3>👨‍🚀 About Me </h3>
-I'm currently working as a <strong>development intern</strong>.
+• I'm currently working as a <strong>development intern</strong>.
 
 - 🧪 &nbsp; Exploring new technologies and developing nice <strong>software solutions</strong> and <strong>interfaces</strong>.
 
