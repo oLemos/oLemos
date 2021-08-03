@@ -5,11 +5,11 @@
 <h3>👨‍🚀 About Me </h3>
 - I'm currently working as a <strong>development intern</strong>.
 
-- 🧪 &nbsp; Exploring new technologies and developing nice <strong>software solutions</strong> and <strong>interfaces</strong>.
+- 🧪 &nbsp; Exploring new technologies, developing nice <strong>software solutions</strong> and <strong>interfaces</strong>.
 
 - 🎓 &nbsp; Studying <strong>Analysis and Systems Development</strong> and coding stuffs.
 
-- 🌱 &nbsp; Learning about <strong>Web and mobile design & development</strong>.
+- 🌱 &nbsp; Learning about <strong>Web / mobile design and development</strong>.
 
 - 🎮 &nbsp; <strong>Gaming</strong> and <strong>astronomy</strong> as hobbies.
 
