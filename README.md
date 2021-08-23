@@ -18,9 +18,9 @@
 ```javascript
 const lemos = (knowledge) => {
   let workingWith = {
-    frontEnd: ["Javascript", "ReactJS", "Redux", "Styled-Components","Material UI"],
+    frontEnd: ["Javascript", "ReactJS", "Styled-Components", "Material UI"],
     tests: ["Jest", "Cypress"],
-    tools: ["VS Code"],
+    tools: ["VS Code", "Redux"],
   };
 
   let studying = {
