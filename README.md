@@ -27,10 +27,10 @@ const lemos = (knowledge) => {
     workingWith,
     frontEnd: ["NextJS", "TypeScript", "SCSS"],
     mobile: ["React Native"],
-    backEnd: ["Java", "Node"],
+    backEnd: ["Java", "Spring", "Node"],
     databases: ["MySQL"],
     clouds: ["AWS", "Azure"],
-    tools: ["IntelliJ", "Insomnia", "Figma", "Adobe XD"],
+    tools: ["IntelliJ", "Insomnia", "Postman", "Figma", "Adobe XD"],
   };
 };
 ```
