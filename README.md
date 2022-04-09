@@ -26,7 +26,7 @@ const lemos = (knowledge) => {
   let studying = {
     workingWith,
     frontEnd: ["NextJS", "TypeScript", "SCSS"],
-    mobile: ["React Native"],
+    mobile: ["React Native", "Kotlin"],
     backEnd: ["Java", "Spring", "Node"],
     databases: ["MySQL"],
     clouds: ["AWS", "Azure"],
