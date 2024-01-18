@@ -11,7 +11,7 @@
 
 - 🌱 &nbsp; Learning about <strong>Web / mobile design and development</strong>.
 
-- 🎮 &nbsp; <strong>Gaming</strong> and <strong>astronomy</strong> as hobbies.
+- 🎮 &nbsp; <strong>Gaming</strong> and <strong>reading</strong> as hobbies.
 
 <h3>🛠 Tech Stack</h3>
 
