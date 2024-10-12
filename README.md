@@ -4,17 +4,17 @@
 
 <h3>👨‍🚀 About Me </h3>
 
-- 🚀 &nbsp; Currently working as a software engineer, crafting engaging user experiences.
+- 🚀 &nbsp; Software engineer, building engaging user experiences.
 
-- 🧪 &nbsp; Exploring new technologies, developing nice <strong>software solutions</strong> and <strong>interfaces</strong>.
+- 🧪 &nbsp; Exploring new tech and developing great solutions and interfaces.
 
-- 💡 &nbsp; Passionate about problem-solving, interface design, and building software solutions.
+- 💡 &nbsp; Passionate about problem-solving, design, and software development.  
 
-- 🎓 &nbsp; Graduated in Analysis and Systems Development, continuously improving my expertise.
+- 🎓 &nbsp; Graduated in Analysis and Systems Development, always sharpening my skills.  
 
-- 🌱 &nbsp; Diving into Web and Mobile Design/Development to create responsive, modern applications.
+- 🌱 &nbsp; Focused on Web/Mobile Development to create responsive, modern apps.  
 
-- 🎮 &nbsp; In my free time, I enjoy gaming, reading, and keeping up with the tech trends.
+- 🎮 &nbsp; In my free time, I enjoy gaming, reading, and following tech trends.
 
 <hr>
 
