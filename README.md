@@ -8,13 +8,13 @@
 
 - 🧪 &nbsp; Exploring new technologies, developing nice <strong>software solutions</strong> and <strong>interfaces</strong>.
 
-- 💡 &nbsp; Passionate about problem-solving, interface design, and building effective software solutions.
+- 💡 &nbsp; Passionate about problem-solving, interface design, and building software solutions.
 
-- 🎓 &nbsp; Graduated in Analysis and Systems Development, continuously improving my coding expertise.
+- 🎓 &nbsp; Graduated in Analysis and Systems Development, continuously improving my expertise.
 
-- 🌱 &nbsp; Diving deeper into Web and Mobile Design/Development to create responsive, modern applications.
+- 🌱 &nbsp; Diving into Web and Mobile Design/Development to create responsive, modern applications.
 
-- 🎮 &nbsp; In my free time, I enjoy gaming, reading, and keeping up with the latest in tech trends.
+- 🎮 &nbsp; In my free time, I enjoy gaming, reading, and keeping up with the tech trends.
 
 <hr>
 
